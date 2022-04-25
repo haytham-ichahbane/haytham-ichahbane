@@ -1,7 +1,7 @@
 <h1>Hey I'm Haytham!👋 </h1>
 
-<p>I'm a MS CS Student and Freelance Software Engineer/ML Engineer from Morocco, you can find me on:<br>  <a href="https://www.linkedin.com/in/haytham-ichahbane/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-  </p>
+<b>I'm a MS CS Student and Freelance Software Engineer/ML Engineer from Morocco, you can find me on:<br>  <a href="https://www.linkedin.com/in/haytham-ichahbane/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+  </b>
 
 <h3>Languages</h3>
   <p><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -25,7 +25,7 @@
   </p>
 
 <h3>👀 I’m interested in ... </h3>
-  <p>Algorithmic Trading and Financial Markets <br> F1 Data Analysis🏎 <br> </p> 
+  <b>Algorithmic Trading and Financial Markets <br> F1 Data Analysis🏎 <br> </b> 
     
     
  <h4>Let's Connect 😉</h4>
