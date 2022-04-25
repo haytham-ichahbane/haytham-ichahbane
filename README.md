@@ -4,11 +4,11 @@
   </p>
 
 <h3>Languages</h3>
-  <p><img src="https://user-images.githubusercontent.com/10553199/165004575-e646f60c-54b9-4045-a243-c088d1031683.svg">
-  <img src="https://user-images.githubusercontent.com/10553199/165004623-51d3bd38-4cb9-4ea3-94de-f702fe1d42f8.svg">
-  <img src="https://user-images.githubusercontent.com/10553199/165004656-9660e99e-33b8-437f-b48f-6f80cdf661ef.svg">
-  <img src="https://user-images.githubusercontent.com/10553199/165004713-ce66e0ff-8391-4c7c-9031-c5b5aeaa081d.svg">
-  <img src="https://user-images.githubusercontent.com/10553199/165004746-b53db7f9-5876-4806-b107-222c74d38dcc.svg"><p>
+  <p><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"><p>
   
 <h3>Technologies and Tools</h3>
   <p> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
