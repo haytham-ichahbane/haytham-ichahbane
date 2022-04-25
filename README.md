@@ -27,5 +27,7 @@
 <h3>👀 I’m interested in ... </h3>
   <p>Algorithmic Trading and Financial Markets <br> F1 Data Analysis🏎 <br> </p> 
     
+    
+ <h4>Let's Connect 😉</h4>
 
 
