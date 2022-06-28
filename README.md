@@ -24,6 +24,9 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
   </p>
 
+![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/10553199/176318701-043bf8b1-9a34-4de9-93a3-d1e93f945925.png)
+
+
 ## 👀 I’m interested in ... 
   <b>Algorithmic Trading and Financial Markets <br> F1 Data Analysis🏎 <br> </b> 
 
