@@ -1,6 +1,6 @@
 <h1>Hey I'm Haytham!👋 </h1>
 
-<b>I'm a MEng CS Student and Freelance Software Engineer/ML Engineer from Morocco, you can find me on:<br>  <a href="https://www.linkedin.com/in/haytham-ichahbane/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<b>I'm a MEng CS Student and Freelance Software Engineer from Morocco, you can find me on:<br>  <a href="https://www.linkedin.com/in/haytham-ichahbane/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
   </b>
 
 ## Languages
