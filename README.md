@@ -30,6 +30,8 @@
 
 ## 👀 I’m interested in ... 
   <b>Algorithmic Trading and Financial Markets <br> F1 Data Analysis🏎 <br> </b> 
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Haytham-ichahbane&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
