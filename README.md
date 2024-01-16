@@ -23,7 +23,6 @@
     <img src="https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-plsql-badge.svg">
   </p>
 
-![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/10553199/176318701-043bf8b1-9a34-4de9-93a3-d1e93f945925.png)
 
 
 ## 👀 I’m interested in ... 
