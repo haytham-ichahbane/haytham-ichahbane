@@ -1,37 +1,65 @@
-<h1>Hey I'm Haytham!👋 </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Hi,%20I'm%20Haytham%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<b>I'm a Software Engineer @Oracle, graduated with a master's degree in CS, you can find me on:<br>  <a href="https://www.linkedin.com/in/haytham-ichahbane/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-  </b>
+<p align="center">
+  <b>Software Engineer @ Oracle</b><br>
+  <i>Building enterprise low-code applications by day, financial systems & SDR stations by night</i>
+</p>
 
-## Languages
-  <p><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"><p>
-  
-## 🔧 Technologies and Tools
-  <p><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white">
-    <img src="https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-plsql-badge.svg">
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/haytham-ichahbane/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:Haythamich@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
+---
 
+### 🏢 What I do
 
-## 👀 I’m interested in ... 
-  <b>Algorithmic Trading and Financial Markets <br> F1 Data Analysis🏎 <br> </b> 
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Haytham-ichahbane&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
+At Oracle, I build on and extend the **Oracle APEX** platform — working both on the platform itself and on applications running on top of it.
 
-## 😂 Here is a random joke that'll make you laugh!
+```python
+class Haytham:
+    def __init__(self):
+        self.role = "Software Engineer @ Oracle"
+        self.focus = ["Oracle APEX", "PL/SQL Performance", "Oracle Database"]
+        self.side_quests = [
+            "Financial systems (Python, PostgreSQL/TimescaleDB, Docker)",
+            "Rooftop SDR station (ADS-B, NOAA, AIS)",
+            "Tennis - aggressive baseliner on clay"
+        ]
+        self.currently_reading = "Political philosophy & world history"
+```
+
+---
+
+### 🛠️ Tech I work with
+
+<p>
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle DB" alt="Oracle DB" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🚀 Currently exploring
+
+- 📈 Financial systems & quantitative methods — building and operating a production-style financial system (PostgreSQL/TimescaleDB, Redis, Docker, with observability via Prometheus/Grafana)
+- 📡 RF/SDR signal processing — rooftop station tracking aircraft (ADS-B), weather satellites (NOAA)
+- 🏎️ F1 telemetry and race data analysis
+- 🎾 Tennis (clay courts, aggressive baseliner)
+- 📚 History, political philosophy, and literature across Arabic, French, and English
+
+---
+
+### 😂 Random joke break
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-    
- ## Let's Connect 😉
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
